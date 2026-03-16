@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on passing my IGCSEs.<br>I do not post repos often, but when I do It's usually worth checking out.<br>I had a lot of cool things on my old schools github account, but I don't use it anymore!<br>I want to learn more about how everything works. <br><br>"Сделай добро и брось его в воду," - Моё самое большое вдохновение
+I am currently working on passing my IGCSEs.<br>I do not post repos often, but when I do It's usually worth checking out. Check out my webpages [here](https://github.com/its-idhem/Website-Portfolio)<br>I had a lot of cool things on my old schools github account, but I don't use it anymore!<br>I want to learn more about how everything works. <br><br>"Сделай добро и брось его в воду," - Моё самое большое вдохновение
 
 
 ## 🌐 Socials:
