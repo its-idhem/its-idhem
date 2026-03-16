@@ -3,7 +3,7 @@ I am currently working on passing my IGCSEs.<br>I do not post repos often, but w
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/its_idhem) [![school email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdi_28@standrews.ac.th) [![other email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=purple)](mailto:idhem_user@proton.me) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/its_idhem) [![school email](https://img.shields.io/badge/School-Email-D14836?logo=gmail&logoColor=white)](mailto:mehdi_28@standrews.ac.th) [![other email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=purple)](mailto:idhem_user@proton.me) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
