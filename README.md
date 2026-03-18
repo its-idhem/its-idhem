@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on passing my IGCSEs.<br> I make cool things. Check out my webpages [here](https://github.com/its-idhem/Website-Portfolio)<br>I had a lot of cool things on my old schools github account, most of them are linked in my webpage portfolio!<br>I want to learn more about how everything works. <br><br>"Сделай добро и брось его в воду," - Моё самое большое вдохновение
+I am currently working on a Pseudocode IDE!!.<br> I make cool things. Check out my webpages [here](https://github.com/its-idhem/Website-Portfolio)<br>I had a lot of cool things on my old schools github account, most of them are linked in my webpage portfolio!<br>I want to learn more about how everything works. <br><br>"Сделай добро и брось его в воду," - Моё самое большое вдохновение
 
 
 ## 🌐 Socials:
